@@ -16,7 +16,7 @@ A cryptocurrency-focused web search API that aggregates articles from 18 global 
   
 A versatile calculator for converting between binary, decimal, hexadecimal, and octal numeric systems. Created in C++ for complex data conversions with a user-friendly command-line interface.
 
-### [Project Modtrain](https://github.com/s-nasir/ModTrain) (Beta in process) :weight_lifting:
+### [Project Modtrain](https://github.com/s-nasir/ModTrain) :weight_lifting:
 
 A module-based training simulator designed for security and concierge personnel. This project focuses on enhancing decision-making skills in time-sensitive emergency situations. 
 
